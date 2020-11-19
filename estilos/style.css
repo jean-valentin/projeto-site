@@ -4,12 +4,12 @@
 }
 
 body {
-    background-color: rgb(204, 157, 248);
+    background-color: rgb(142, 146, 204);
 }
 
 main {
     background-color: white;
-    width: 500px;
+    width: 600px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
@@ -31,3 +31,23 @@ img.lado {
     height: 80px;
 }
 
+img.voltar {
+    width: 40px;
+    height: 40px;
+}
+
+img {
+    width: 200px;
+    /*height: 150px;*/
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
+}
